@@ -1,0 +1,44 @@
+*{
+    margin-top: 0%;
+    padding: 2%;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+/* Estilo para la tabla */
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.p2 {
+    text-decoration: underline;
+}
+
+.data-contact{
+    padding: 0px;
+}
+
+/* Estilo para las celdas de encabezado */
+.custom-table th {
+    background-color: #f2f2f2;
+    border: 1px solid black;
+    padding: 6px;
+    text-align: left;
+}
+
+/* Estilo para las celdas de datos */
+.custom-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+footer{
+    padding: 0px;
+}
+
+footer p {
+    padding: 0px;
+}
